@@ -1,7 +1,9 @@
 # great-circle-distance
+please i had issue pushing to the main / master branch today, so i have to push to  circle-distance branch
 
 # to set up and start the app
    -  clone the repository
+   -  checkout to circle-distance 
    -  run yarn to install all the dependencies
    -  type yarn start:dev to start the server
    -  endpoint are :
