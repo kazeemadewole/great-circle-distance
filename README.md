@@ -7,6 +7,7 @@ had an issue when pushing to github and because of time, i had to submit like th
 
 # to set up and start the app
    -  clone the repository
+   -  checkout to circle-distance
    -  run yarn to install all the dependencies
    -  type yarn start:dev to start the server
    -  endpoint are :
